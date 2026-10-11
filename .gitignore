@@ -1,0 +1,14 @@
+.vs/
+**/Debug/
+**/Release/
+**/x64/
+**/Win32/
+*.user
+*.suo
+*.obj
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.VC.db
